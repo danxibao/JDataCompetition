@@ -1,0 +1,7 @@
+# IntelliJ project files
+data/*
+cache/*
+submission/*
+.idea
+
+
